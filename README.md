@@ -6,7 +6,6 @@ As an aspiring business analyst, I thrive at the intersection of data, strategy,
 
 📊 **Explore My Work:**  
 🔹 [Tableau Portfolio](https://public.tableau.com/app/profile/kaanchi.gupta) – Interactive dashboards and visualizations  
-🔹 GitHub Projects – Stay tuned for upcoming repositories showcasing data-driven solutions  
 
 📩 **Let's Connect:**  
 🔗 [LinkedIn](https://www.linkedin.com/in/kaanchi-gupta/) | 📧 kgupta5@babson.edu
